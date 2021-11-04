@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UI/StartScene.unity
+    guid: 382d4fbb7acb088448129717ee9ad328
+  - enabled: 1
+    path: Assets/UI/Pac-manScene-Level01.unity
+    guid: 77e363faaf062a84dbc4f00f0d8364af
+  - enabled: 1
+    path: Assets/UI/Pac-manWinScene.unity
+    guid: cff2aef8cfcdb8544b5d34612d11e1c0
+  - enabled: 1
+    path: Assets/UI/Pac-manFailureScene.unity
+    guid: 717c28ae067e48e4797b920ef5e59b53
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

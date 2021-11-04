@@ -1,0 +1,2456 @@
+fileFormatVersion: 2
+guid: 86f932487fac06f478bea0aef919f354
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3888032981491848671
+    second: 01 - RPG snow tileset (full) v1.0_0
+  - first:
+      213: 3592314553866081907
+    second: 01 - RPG snow tileset (full) v1.0_1
+  - first:
+      213: 1761904053048917023
+    second: 01 - RPG snow tileset (full) v1.0_2
+  - first:
+      213: 2219204914100371604
+    second: 01 - RPG snow tileset (full) v1.0_3
+  - first:
+      213: -4628354888579055143
+    second: 01 - RPG snow tileset (full) v1.0_4
+  - first:
+      213: 7855006380702676318
+    second: 01 - RPG snow tileset (full) v1.0_5
+  - first:
+      213: 1592368724353375610
+    second: 01 - RPG snow tileset (full) v1.0_6
+  - first:
+      213: 5788134038628577017
+    second: 01 - RPG snow tileset (full) v1.0_7
+  - first:
+      213: -2817417619027498271
+    second: 01 - RPG snow tileset (full) v1.0_8
+  - first:
+      213: 3988178088467559702
+    second: 01 - RPG snow tileset (full) v1.0_9
+  - first:
+      213: -12822032124816545
+    second: 01 - RPG snow tileset (full) v1.0_10
+  - first:
+      213: 8247032838645644282
+    second: 01 - RPG snow tileset (full) v1.0_11
+  - first:
+      213: -3523432174423451864
+    second: 01 - RPG snow tileset (full) v1.0_12
+  - first:
+      213: -503688728488909562
+    second: 01 - RPG snow tileset (full) v1.0_13
+  - first:
+      213: 3846403079200247679
+    second: 01 - RPG snow tileset (full) v1.0_14
+  - first:
+      213: -683884187098159960
+    second: 01 - RPG snow tileset (full) v1.0_15
+  - first:
+      213: 3412348978877512949
+    second: 01 - RPG snow tileset (full) v1.0_16
+  - first:
+      213: -3492842142518383243
+    second: 01 - RPG snow tileset (full) v1.0_17
+  - first:
+      213: 8486730883141782837
+    second: 01 - RPG snow tileset (full) v1.0_18
+  - first:
+      213: -4388795992984984352
+    second: 01 - RPG snow tileset (full) v1.0_19
+  - first:
+      213: -7544750471640213418
+    second: 01 - RPG snow tileset (full) v1.0_20
+  - first:
+      213: 7341548952939843102
+    second: 01 - RPG snow tileset (full) v1.0_21
+  - first:
+      213: 4816882974167861517
+    second: 01 - RPG snow tileset (full) v1.0_22
+  - first:
+      213: -2384450579564101506
+    second: 01 - RPG snow tileset (full) v1.0_23
+  - first:
+      213: 1959206246008727108
+    second: 01 - RPG snow tileset (full) v1.0_24
+  - first:
+      213: 16459508839698428
+    second: 01 - RPG snow tileset (full) v1.0_25
+  - first:
+      213: 8376756354079499445
+    second: 01 - RPG snow tileset (full) v1.0_26
+  - first:
+      213: 674663058608910482
+    second: 01 - RPG snow tileset (full) v1.0_27
+  - first:
+      213: -6989783958411067140
+    second: 01 - RPG snow tileset (full) v1.0_28
+  - first:
+      213: -8211483997721301023
+    second: 01 - RPG snow tileset (full) v1.0_29
+  - first:
+      213: -5710249145345030898
+    second: 01 - RPG snow tileset (full) v1.0_30
+  - first:
+      213: 7693024393139785280
+    second: 01 - RPG snow tileset (full) v1.0_31
+  - first:
+      213: -9159447763177224387
+    second: 01 - RPG snow tileset (full) v1.0_32
+  - first:
+      213: -4550281661482153744
+    second: 01 - RPG snow tileset (full) v1.0_33
+  - first:
+      213: 5401501910330675050
+    second: 01 - RPG snow tileset (full) v1.0_34
+  - first:
+      213: -4958465850786771005
+    second: 01 - RPG snow tileset (full) v1.0_35
+  - first:
+      213: 3624480014995526939
+    second: 01 - RPG snow tileset (full) v1.0_36
+  - first:
+      213: -3100892749726687380
+    second: 01 - RPG snow tileset (full) v1.0_37
+  - first:
+      213: -5213671490178338428
+    second: 01 - RPG snow tileset (full) v1.0_38
+  - first:
+      213: -8782669393136463909
+    second: 01 - RPG snow tileset (full) v1.0_39
+  - first:
+      213: -6510919892665192151
+    second: 01 - RPG snow tileset (full) v1.0_40
+  - first:
+      213: 6782006381682315813
+    second: 01 - RPG snow tileset (full) v1.0_41
+  - first:
+      213: 1117637190815642735
+    second: 01 - RPG snow tileset (full) v1.0_42
+  - first:
+      213: -2190054209675499011
+    second: 01 - RPG snow tileset (full) v1.0_43
+  - first:
+      213: 5427560096558853143
+    second: 01 - RPG snow tileset (full) v1.0_44
+  - first:
+      213: -1099994932712692908
+    second: 01 - RPG snow tileset (full) v1.0_45
+  - first:
+      213: 1072930543837352619
+    second: 01 - RPG snow tileset (full) v1.0_46
+  - first:
+      213: 28170605659846389
+    second: 01 - RPG snow tileset (full) v1.0_47
+  - first:
+      213: 846677217732308433
+    second: 01 - RPG snow tileset (full) v1.0_48
+  - first:
+      213: -4261272034273413754
+    second: 01 - RPG snow tileset (full) v1.0_49
+  - first:
+      213: -7958107654473717774
+    second: 01 - RPG snow tileset (full) v1.0_50
+  - first:
+      213: -588866471768057448
+    second: 01 - RPG snow tileset (full) v1.0_51
+  - first:
+      213: 3215321702151580093
+    second: 01 - RPG snow tileset (full) v1.0_52
+  - first:
+      213: 263354156382431397
+    second: 01 - RPG snow tileset (full) v1.0_53
+  - first:
+      213: -6208360953166793865
+    second: 01 - RPG snow tileset (full) v1.0_54
+  - first:
+      213: 7914578896935314906
+    second: 01 - RPG snow tileset (full) v1.0_55
+  - first:
+      213: 4290176420939347625
+    second: 01 - RPG snow tileset (full) v1.0_56
+  - first:
+      213: 4891947542267585992
+    second: 01 - RPG snow tileset (full) v1.0_57
+  - first:
+      213: -3935401481151953036
+    second: 01 - RPG snow tileset (full) v1.0_58
+  - first:
+      213: 6265563147763138263
+    second: 01 - RPG snow tileset (full) v1.0_59
+  - first:
+      213: -9146670567679863
+    second: 01 - RPG snow tileset (full) v1.0_60
+  - first:
+      213: -5545901892248327361
+    second: 01 - RPG snow tileset (full) v1.0_61
+  - first:
+      213: -1668377259169096072
+    second: 01 - RPG snow tileset (full) v1.0_62
+  - first:
+      213: 6349312773712908483
+    second: 01 - RPG snow tileset (full) v1.0_63
+  - first:
+      213: -6600627891564691222
+    second: 01 - RPG snow tileset (full) v1.0_64
+  - first:
+      213: 6705866009753309943
+    second: 01 - RPG snow tileset (full) v1.0_65
+  - first:
+      213: 1100806758972696157
+    second: 01 - RPG snow tileset (full) v1.0_66
+  - first:
+      213: 8480521767905280000
+    second: 01 - RPG snow tileset (full) v1.0_67
+  - first:
+      213: -5529432935255437180
+    second: 01 - RPG snow tileset (full) v1.0_68
+  - first:
+      213: -403329621796231231
+    second: 01 - RPG snow tileset (full) v1.0_69
+  - first:
+      213: 6421712798869932057
+    second: 01 - RPG snow tileset (full) v1.0_70
+  - first:
+      213: 5042626034990880513
+    second: 01 - RPG snow tileset (full) v1.0_71
+  - first:
+      213: 1284557030053764404
+    second: 01 - RPG snow tileset (full) v1.0_72
+  - first:
+      213: -7785489952858655518
+    second: 01 - RPG snow tileset (full) v1.0_73
+  - first:
+      213: 3109938254088400439
+    second: 01 - RPG snow tileset (full) v1.0_74
+  - first:
+      213: -5657925706080593119
+    second: 01 - RPG snow tileset (full) v1.0_75
+  - first:
+      213: 7301046097563742114
+    second: 01 - RPG snow tileset (full) v1.0_76
+  - first:
+      213: -6792551808871329391
+    second: 01 - RPG snow tileset (full) v1.0_77
+  - first:
+      213: 9074396373966191016
+    second: 01 - RPG snow tileset (full) v1.0_78
+  - first:
+      213: 7219390654657088522
+    second: 01 - RPG snow tileset (full) v1.0_79
+  - first:
+      213: 6459304709472142724
+    second: 01 - RPG snow tileset (full) v1.0_80
+  - first:
+      213: -7824337093640441861
+    second: 01 - RPG snow tileset (full) v1.0_81
+  - first:
+      213: 1961504652946592117
+    second: 01 - RPG snow tileset (full) v1.0_82
+  - first:
+      213: 660160796817167772
+    second: 01 - RPG snow tileset (full) v1.0_83
+  - first:
+      213: 1488359930277725889
+    second: 01 - RPG snow tileset (full) v1.0_84
+  - first:
+      213: -6285408502610080009
+    second: 01 - RPG snow tileset (full) v1.0_85
+  - first:
+      213: -3726133093185203180
+    second: 01 - RPG snow tileset (full) v1.0_86
+  - first:
+      213: -7410325763348953344
+    second: 01 - RPG snow tileset (full) v1.0_87
+  - first:
+      213: 1567549049517238111
+    second: 01 - RPG snow tileset (full) v1.0_88
+  - first:
+      213: 7324720339092610112
+    second: 01 - RPG snow tileset (full) v1.0_89
+  - first:
+      213: -1428410532012339500
+    second: 01 - RPG snow tileset (full) v1.0_90
+  - first:
+      213: -4648471858779310302
+    second: 01 - RPG snow tileset (full) v1.0_91
+  - first:
+      213: 9032733728303481795
+    second: 01 - RPG snow tileset (full) v1.0_92
+  - first:
+      213: 6808553984079310294
+    second: 01 - RPG snow tileset (full) v1.0_93
+  - first:
+      213: 3322604505515719566
+    second: 01 - RPG snow tileset (full) v1.0_94
+  - first:
+      213: -1015504931898799497
+    second: 01 - RPG snow tileset (full) v1.0_95
+  - first:
+      213: 1608716806392894893
+    second: 01 - RPG snow tileset (full) v1.0_96
+  - first:
+      213: 7398225561108957631
+    second: 01 - RPG snow tileset (full) v1.0_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aec2f5a9eea0ac0800000000000000
+      internalID: -3888032981491848671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 996
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37657a8cd077ad130800000000000000
+      internalID: 3592314553866081907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 998
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3d4ab66a837810800000000000000
+      internalID: 1761904053048917023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49001cc8c133cce10800000000000000
+      internalID: 2219204914100371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 994
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18dcb30c7c4cfb0800000000000000
+      internalID: -4628354888579055143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 962
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b5368fa6920d60800000000000000
+      internalID: 7855006380702676318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 962
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d56860bea391610800000000000000
+      internalID: 1592368724353375610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 962
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feadc4cd35935050800000000000000
+      internalID: 5788134038628577017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 930
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea60f15a9586e8d0800000000000000
+      internalID: -2817417619027498271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_9
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 930
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fa1857dad85730800000000000000
+      internalID: 3988178088467559702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 964
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d6e10e6272dff0800000000000000
+      internalID: -12822032124816545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 966
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb747e0ca8537270800000000000000
+      internalID: 8247032838645644282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 934
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827de45fa114a1fc0800000000000000
+      internalID: -3523432174423451864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 936
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ec0525c98209f0800000000000000
+      internalID: -503688728488909562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 930
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f03bea83b216530800000000000000
+      internalID: 3846403079200247679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4e18884fa5286f0800000000000000
+      internalID: -683884187098159960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 898
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc39af11591b5f20800000000000000
+      internalID: 3412348978877512949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 898
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6da6c39ee68fc0800000000000000
+      internalID: -3492842142518383243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 898
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc00a06cce6c570800000000000000
+      internalID: 8486730883141782837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 898
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e8761c4dd713c0800000000000000
+      internalID: -4388795992984984352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 902
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589cea7b69ab4790800000000000000
+      internalID: -7544750471640213418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 898
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ece1120eb62e560800000000000000
+      internalID: 7341548952939843102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0907e74b8109d240800000000000000
+      internalID: 4816882974167861517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_23
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 800
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708b9cc4dab8eed0800000000000000
+      internalID: -2384450579564101506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 866
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a31f43bf703b10800000000000000
+      internalID: 1959206246008727108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 866
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff419906d97a3000800000000000000
+      internalID: 16459508839698428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 800
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a7e6a587304470800000000000000
+      internalID: 8376756354079499445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 800
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290767f2a72ec5900800000000000000
+      internalID: 674663058608910482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_28
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 800
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf04f26f58c4ffe90800000000000000
+      internalID: -6989783958411067140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 800
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef64057fc2fa0e80800000000000000
+      internalID: -8211483997721301023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 704
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e054bb018ae11c0b0800000000000000
+      internalID: -5710249145345030898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 704
+        width: 12
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e03891dec13ca60800000000000000
+      internalID: 7693024393139785280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 768
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374319c9ca13e080800000000000000
+      internalID: -9159447763177224387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c163ffe62ad0c0800000000000000
+      internalID: -4550281661482153744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_34
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 768
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8ada7e5df5fa40800000000000000
+      internalID: 5401501910330675050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_35
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 768
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf03fc649dff2bb0800000000000000
+      internalID: -4958465850786771005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 736
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159f4dce5dbc4230800000000000000
+      internalID: 3624480014995526939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 736
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd4fd297a67f4d0800000000000000
+      internalID: -3100892749726687380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 736
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b654276155a7b0800000000000000
+      internalID: -5213671490178338428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 738
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc76238b0bd1680800000000000000
+      internalID: -8782669393136463909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 738
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921baac9ad094a5a0800000000000000
+      internalID: -6510919892665192151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 738
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5225b9c1fd68e1e50800000000000000
+      internalID: 6782006381682315813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 738
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64f4528a15a28f00800000000000000
+      internalID: 1117637190815642735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_43
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 738
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96179bc4d5b91e0800000000000000
+      internalID: -2190054209675499011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 706
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca970c621925b40800000000000000
+      internalID: 5427560096558853143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 704
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4532eeccf680cb0f0800000000000000
+      internalID: -1099994932712692908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 708
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2971e15a0d3ee00800000000000000
+      internalID: 1072930543837352619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_47
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 706
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6767f3405146000800000000000000
+      internalID: 28170605659846389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_48
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 706
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda952917000cb00800000000000000
+      internalID: 846677217732308433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_49
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 706
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b3d979abecd4c0800000000000000
+      internalID: -4261272034273413754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_50
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 706
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e6ca804f1f8190800000000000000
+      internalID: -7958107654473717774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_51
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899902a501de3d7f0800000000000000
+      internalID: -588866471768057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db969577d0e1f9c20800000000000000
+      internalID: 3215321702151580093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a82c4db53f97a300800000000000000
+      internalID: 263354156382431397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773761d3b9877d9a0800000000000000
+      internalID: -6208360953166793865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e1a2d29b36dd60800000000000000
+      internalID: 7914578896935314906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_56
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b8d979b4c98b30800000000000000
+      internalID: 4290176420939347625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_57
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 672
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c564bcfe50b3e340800000000000000
+      internalID: 4891947542267585992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 674
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477446b1435a269c0800000000000000
+      internalID: -3935401481151953036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 674
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de333c8c70c3f650800000000000000
+      internalID: 6265563147763138263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_60
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 674
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9889fedc6218fdff0800000000000000
+      internalID: -9146670567679863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 674
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2f59cc9ff803b0800000000000000
+      internalID: -5545901892248327361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 640
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ed2e3e8bbb8d8e0800000000000000
+      internalID: -1668377259169096072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 640
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0120dd35a4d1850800000000000000
+      internalID: 6349312773712908483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 610
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae040cc77ebd564a0800000000000000
+      internalID: -6600627891564691222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 640
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f256be4b95001d50800000000000000
+      internalID: 6705866009753309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_66
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 640
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56aaea3ae9d64f00800000000000000
+      internalID: 1100806758972696157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_67
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 608
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00046fdbd9dd0b570800000000000000
+      internalID: 8480521767905280000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_68
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 640
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48011c4aa028343b0800000000000000
+      internalID: -5529432935255437180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 642
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7617d88d5176af0800000000000000
+      internalID: -403329621796231231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_70
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 642
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c83254c18e1950800000000000000
+      internalID: 6421712798869932057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 642
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10794ce69a10bf540800000000000000
+      internalID: 5042626034990880513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_72
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 642
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd51e10d9a3d110800000000000000
+      internalID: 1284557030053764404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 484
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4bc7d132264f390800000000000000
+      internalID: -7785489952858655518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_74
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 484
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e665c6d58b82b20800000000000000
+      internalID: 3109938254088400439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 608
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd38b1c820b71b0800000000000000
+      internalID: -5657925706080593119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 610
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe90e3eb6825560800000000000000
+      internalID: 7301046097563742114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 608
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19199c94e120cb1a0800000000000000
+      internalID: -6792551808871329391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 576
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9f8558c6bbeed70800000000000000
+      internalID: 9074396373966191016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 578
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c4c99ec8d603460800000000000000
+      internalID: 7219390654657088522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_80
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 480
+        width: 50
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854810196f04a950800000000000000
+      internalID: 6459304709472142724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_81
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 576
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff26a25ede5a6390800000000000000
+      internalID: -7824337093640441861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 480
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715820e61aa83b10800000000000000
+      internalID: 1961504652946592117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_83
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 576
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951dec3fbc592900800000000000000
+      internalID: 660160796817167772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_84
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 576
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6012e8877b7a410800000000000000
+      internalID: 1488359930277725889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_85
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 576
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec4b5b44eb5c8a0800000000000000
+      internalID: -6285408502610080009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_86
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 576
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145ed291bd1a4cc0800000000000000
+      internalID: -3726133093185203180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 480
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00709a5dafb392990800000000000000
+      internalID: -7410325763348953344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 512
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e9782e8d01c510800000000000000
+      internalID: 1567549049517238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c91b22752a6a560800000000000000
+      internalID: 7324720339092610112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_90
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 390
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4afd60344d2ce0800000000000000
+      internalID: -1428410532012339500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 386
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2273f0d197f4d7fb0800000000000000
+      internalID: -4648471858779310302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_92
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 424
+        width: 142
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3083ae777ba5d70800000000000000
+      internalID: 9032733728303481795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_93
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 326
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd2e1776c7dc7e50800000000000000
+      internalID: 6808553984079310294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7060a1334c1e20800000000000000
+      internalID: 3322604505515719566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 320
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac38215a338e1f0800000000000000
+      internalID: -1015504931898799497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_96
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 320
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5df3d796f435610800000000000000
+      internalID: 1608716806392894893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - RPG snow tileset (full) v1.0_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 224
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94d1a43f6cba660800000000000000
+      internalID: 7398225561108957631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 222c158d8fdcc7a41a1cd69806463ac8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

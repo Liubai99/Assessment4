@@ -141,8 +141,21 @@ public class GhostManager : MonoBehaviour
 
             SceneManager.LoadScene("Pac-manWinScene");
         }
+        int tempIndex = Random.Range(0, pacdotGos.Count);
         count++;
-        
+        if (count % 2 == 0)
+
+        {
+            Renderer render = pacdotGos[tempIndex].GetComponent<Renderer>();
+
+            render.material.color = Color.red;
+        }
+        else
+        {
+            Renderer render = pacdotGos[tempIndex].GetComponent<Renderer>();
+
+            render.material.color = Color.blue;
+        }
     }
 
     public void OnEatPacdot(GameObject go)
